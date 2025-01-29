@@ -5,3 +5,5 @@
   - [PDFの中身 /tex形式](./article_spatio-temporal_life_change_in_daily_life_in_COVID19.tex)
 
 ## Directly Structure (このリポジトリのフォルダ構成)
+
+![Directly Structure](./figure/fig_structuring_directly_public.png)
