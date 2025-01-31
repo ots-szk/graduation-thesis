@@ -7,4 +7,4 @@
 
 ## Directly Structure (このリポジトリのフォルダ構成)
 
-![Directly Structure](./figure/fig_structuring_directly_public.png)
+![Directly Structure](./figure/fig_structuring_directly_パブリックリポジトリ用.png)
