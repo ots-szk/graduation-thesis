@@ -4,7 +4,7 @@
 - [卒業論文（本文）/PDF形式](./out/article_spatio-temporal_life_change_in_daily_life_in_COVID19.pdf)  
   - [PDFの中身 /tex形式](./article_spatio-temporal_life_change_in_daily_life_in_COVID19.tex)
 
-※参考文献リストはまだ入れてないです、、、
+※PDF/tex形式の参考文献リストは作成中です、、、
 
 ## Directly Structure (このリポジトリのフォルダ構成)
 
