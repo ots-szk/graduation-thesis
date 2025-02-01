@@ -1,0 +1,106 @@
+<mxfile host="65bd71144e">
+    <diagram id="ffMW-9znZ8A2HC_LGB8C" name="ページ1">
+        <mxGraphModel dx="736" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;res_spatio-temporal_life_change_in_daily_life_in_COVID19&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="130" width="660" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="endArrow=classic;html=1;fontSize=21;exitX=0;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3" target="65" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="10.499999999999545" y="170" as="sourcePoint"/>
+                        <mxPoint x="160" y="980" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="40" y="1040"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="31" value="" style="endArrow=classic;html=1;fontSize=21;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3" target="32" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="10.499999999999545" y="170" as="sourcePoint"/>
+                        <mxPoint x="170" y="1380" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="40" y="1520"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="32" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;figure&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fontSize=21;startSize=50;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="1520" width="590" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;c00s00_fig&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=23;" parent="32" vertex="1">
+                    <mxGeometry x="20" y="80" width="120" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;table_title&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=23;" parent="32" vertex="1">
+                    <mxGeometry x="440" y="80" width="120" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;fig_title&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=23;" parent="32" vertex="1">
+                    <mxGeometry x="300" y="80" width="120" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;c00s00_table&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=23;" parent="32" vertex="1">
+                    <mxGeometry x="160" y="80" width="120" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;docs&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fontSize=21;startSize=50;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="1070" width="230" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;卒業論文.md&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=23;" parent="65" vertex="1">
+                    <mxGeometry x="55" y="80" width="120" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;article_&lt;br&gt;spatio-temporal_&lt;br&gt;life_change_&lt;br&gt;in_daily_life_&lt;br&gt;in_COVID19.tex&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=23;" parent="1" vertex="1">
+                    <mxGeometry x="150" y="440" width="225" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;README.md&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=23;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="240" width="120" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="70" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="40" y="190" as="sourcePoint"/>
+                        <mxPoint x="340" y="450" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="40" y="320"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="72" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="69" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="40" y="190" as="sourcePoint"/>
+                        <mxPoint x="650" y="560" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="40" y="520"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="73" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;こっちはtex形式の卒論です。&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;size=40;position=0.39;base=50;" parent="1" vertex="1">
+                    <mxGeometry x="355" y="320" width="260" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;ここは、卒論で使用した図表です。&lt;br&gt;c：章&lt;br&gt;s：説&lt;br&gt;（例）c04s01→第4章第1節&lt;br&gt;&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.29;size=40;position=0.39;base=50;" parent="1" vertex="1">
+                    <mxGeometry x="425" y="1330" width="350" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;こっちはmarkdown形式の卒論が入ってます&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;size=40;position=0.28;base=70;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="990" width="360" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;out&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fontSize=21;startSize=50;" parent="1" vertex="1">
+                    <mxGeometry x="150" y="680" width="550" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;article_&lt;br&gt;spatio-temporal_&lt;br&gt;life_change_&lt;br&gt;in_daily_life_&lt;br&gt;in_COVID19.pdf&lt;br&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=23;" parent="78" vertex="1">
+                    <mxGeometry x="15" y="80" width="225" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;article_&lt;br&gt;spatio-temporal_&lt;br&gt;life_change_&lt;br&gt;in_daily_life_&lt;br&gt;in_COVID19.gz&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=23;" parent="78" vertex="1">
+                    <mxGeometry x="300" y="80" width="225" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" value="" style="endArrow=classic;html=1;fontSize=18;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" target="78" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="40" y="190" as="sourcePoint"/>
+                        <mxPoint x="750" y="460" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="40" y="680"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="83" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;こっちはpdfが入ってますが、&lt;br&gt;拡張子が.gzになっているのは見れないです。&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.31;size=40;position=0.39;base=50;" parent="1" vertex="1">
+                    <mxGeometry x="425" y="560" width="370" height="120" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
