@@ -8,4 +8,7 @@
 
 ## Directly Structure (このリポジトリのフォルダ構成)
 
+2025/02/02
+再設計してます。
+
 ![Directly Structure](./Figure/fig_structuring_directly_パブリックリポジトリ用.png)
